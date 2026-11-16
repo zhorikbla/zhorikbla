@@ -79,7 +79,7 @@
 
 ---
 
-### ♟️ 02 — [Шахматный клуб](https://github.com/zhorikbla/chess-club)
+### [Шахматный клуб](https://github.com/zhorikbla/chess-club)
 
 **Desktop · Управление турнирами · JavaFX + PostgreSQL**
 
