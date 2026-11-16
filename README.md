@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Георгий Ишунин — full-stack разработчик" width="100%">
+  <img src="assets/profile-banner.jpg" alt="EIGHT" width="100%">
 </p>
 
 <h1 align="center">Привет, я Георгий Ишунин 👋</h1>
