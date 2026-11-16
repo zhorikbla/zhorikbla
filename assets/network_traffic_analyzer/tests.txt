@@ -1,0 +1,21 @@
+Network Traffic Analyzer — Docker build
+
+CMake configuration
+  C++ standard: 17
+  libpcap: 1.10.1
+  Catch2: 3.5.4
+
+Filters: ~[live]
+Randomness seeded to: 2453147336
+
+===============================================================================
+All tests passed (78 assertions in 10 test cases)
+===============================================================================
+
+Built targets:
+  sniffer
+  runTests
+  scenario_all_packets
+  scenario_tcp_only
+  scenario_large_packets
+  scenario_workflow

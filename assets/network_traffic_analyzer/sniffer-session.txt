@@ -1,0 +1,37 @@
+network sniffer
+
+filter mode:
+1. all packets
+2. tcp only
+3. large packets (>500 bytes)
+choice: 1
+filter: all packets
+
+available interfaces:
+
+1. eth0
+2. any
+3. lo
+4. tunl0
+5. gre0
+6. gretap0
+7. erspan0
+
+select interface: 1
+
+starting capture...
+press ctrl+c to stop
+....
+
+----- statistics -----
+packets: 200
+bytes: 12800
+
+tcp: 200
+udp: 0
+icmp: 0
+other: 0
+
+----- flows -----
+172.17.0.3 -> 172.17.0.4 | packets: 100 | bytes: 5400
+172.17.0.4 -> 172.17.0.3 | packets: 100 | bytes: 7400
