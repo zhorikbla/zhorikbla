@@ -2,7 +2,7 @@
   <img src="assets/profile-banner-wide.png" alt="EIGHT" width="100%">
 </p>
 
-<h1 align="center">Привет, я Георгий Ишунин 👋</h1>
+<h1 align="center">Привет, я Георгий👋</h1>
 
 <p align="center">
   <strong>Full-stack разработчик · Javascript · Java · C++ · PostgreSQL · React · Node.js · Python</strong>
@@ -20,13 +20,13 @@
   <a href="#-контакты">Контакты</a>
 </p>
 
-## 👨‍💻 Обо мне
+## Обо мне
 
 Разрабатываю приложения целиком: от интерфейса и клиентской логики до API, базы данных и развёртывания. Учусь в РТУ МИРЭА и развиваюсь в full-stack разработке, а также работаю с десктопными, мобильными приложениями, сетями и системным программированием.
 
 В проектах стараюсь уделять внимание не только интерфейсу, но и архитектуре: разделению ролей, бизнес-правилам, работе с данными, тестированию и воспроизводимому запуску.
 
-## 🧰 Стек
+## ТЕХ. Стек
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
@@ -58,9 +58,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
 </p>
 
-## 🚀 Избранные проекты
+## ПЕТ-ПРОЕКТЫ
 
-### 💰 01 — [NetWorth](https://github.com/zhorikbla/NetWorth)
+### [NetWorth](https://github.com/zhorikbla/NetWorth)
 
 **Full-stack · Личные финансы · React + Express + PostgreSQL**
 
@@ -98,7 +98,7 @@
 
 ---
 
-### ✈️ 03 — [Aviation](https://github.com/zhorikbla/aviatiob_pr)
+### [Aviation](https://github.com/zhorikbla/aviatiob_pr)
 
 **Full-stack · Авиаперевозки · React + Express + PostgreSQL**
 
@@ -117,7 +117,7 @@
 
 ---
 
-### 🍽️ 04 — [La Maison — приложение для ресторана](https://github.com/zhorikbla/restaurant-app)
+### [La Maison — приложение для ресторана](https://github.com/zhorikbla/restaurant-app)
 
 **Full-stack · Заказы и бронирования · React + Express + PostgreSQL**
 
@@ -135,7 +135,7 @@
 
 ---
 
-### 🛰️ 05 — [Network Traffic Analyzer](https://github.com/zhorikbla/network_traffic_analyzer)
+### [Network Traffic Analyzer](https://github.com/zhorikbla/network_traffic_analyzer)
 
 **Системное программирование · Анализ сетевого трафика · C++**
 
@@ -162,7 +162,7 @@ tcp: 200    udp: 0    icmp: 0    other: 0
   <a href="https://github.com/zhorikbla/network_traffic_analyzer"><img src="https://img.shields.io/badge/Открыть_репозиторий-00A5CF?style=flat-square&logo=github&logoColor=white" alt="Открыть репозиторий"></a>
 </p>
 
-## 📬 Контакты
+## Контакты
 
 <p align="center">
   <a href="https://github.com/zhorikbla"><img src="https://img.shields.io/badge/GitHub-zhorikbla-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
